@@ -1,5 +1,5 @@
 #Introdução:
-O PySpark é uma biblioteca de processamento distribuído de dados, especialmente eficaz para lidar com grandes volumes de dados em diversos cenários, desde análises de ciência de dados até decisões de negócios.
+O PySpark é uma biblioteca de processamento distribuído de dados, especialmente eficaz para lidar com grandes volumes de dados em diversos cenários, processamento e análises de dados.
 
 #Razões-Chave:
 
