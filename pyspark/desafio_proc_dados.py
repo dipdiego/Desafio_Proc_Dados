@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import sum, col, split
 from pyspark.sql.types import DoubleType
