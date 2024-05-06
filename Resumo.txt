@@ -1,0 +1,30 @@
+#Introdução:
+O PySpark é uma biblioteca de processamento distribuído de dados, especialmente eficaz para lidar com grandes volumes de dados em diversos cenários, desde análises de ciência de dados até decisões de negócios.
+
+#Razões-Chave:
+
+1. Escalabilidade Horizontal:
+Construído sobre o Apache Spark, o PySpark distribui automaticamente o processamento de dados em clusters de computadores, permitindo lidar com grandes volumes de dados de forma eficiente.
+
+2. Processamento em Memória:
+O PySpark é eficiente no processamento em memória, reduzindo a necessidade de acesso a disco e tornando as operações mais rápidas, especialmente para algoritmos iterativos.
+
+3. Uso de RDDs e DataFrames:
+Oferece abstrações eficientes, como RDDs e DataFrames, para manipulação e análise de dados, otimizadas para lidar com grandes volumes de dados de forma distribuída.
+
+4. Integração com Ecossistema Hadoop:
+Como parte do ecossistema Hadoop, o PySpark se integra facilmente a tecnologias como HDFS, HBase e Hive, aproveitando infraestrutura existente para processamento distribuído.
+
+5. Otimização para Operações Complexas:
+O PySpark é otimizado para operações complexas de processamento de dados, oferecendo suporte a uma ampla gama de operações e algoritmos para análises sofisticadas em larga escala.
+
+#Conclusão:
+O PySpark é uma escolha ideal para lidar com grandes volumes de dados, proporcionando escalabilidade, eficiência, estruturas de dados otimizadas, integração com Hadoop e suporte a operações complexas, permitindo análises eficazes e tomada de decisões informadas em diversas áreas.
+
+#Respostas:
+
+1. Produto mais vendido em termos de quantidade e canal: (('Cereal', 'Offline'), 1044443977)
+
+2. País e região com o maior volume de vendas: (('Rwanda', 'Sub-Saharan Africa'), 36343889144.91)
+
+3. Média de vendas mensais por produto: {'Baby Food': 173579117.41666666, 'Beverages': 173636372.16666666, 'Cereal': 173604154.83333334, 'Clothes': 173609742.0, 'Cosmetics': 173628501.58333334, 'Fruits': 173520387.25, 'Household': 173624205.33333334, 'Meat': 173677112.33333334, 'Office Supplies': 173721566.08333334, 'Personal Care': 173520321.5, 'Snacks': 173636210.25, 'Vegetables': 173571918.16666666}
