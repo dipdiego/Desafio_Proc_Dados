@@ -61,7 +61,7 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # Definindo o caminho para o arquivo CSV de grandes vendas
-file_path = 'C:/Users/diego/Downloads/Teste_Engenheiro_de_Dados/vendas.csv'
+file_path = 'CAMINHO/vendas.csv'
 
 # Criando uma instância do ProcessadorVendas
 processador = ProcessadorVendas(spark, file_path)
